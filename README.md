@@ -6,7 +6,7 @@ A modern, responsive web application to search and discover recipes. Built with 
 
 ## Demo
 
-Live Demo: [Recipe Finder](https://mydishfinder.netlify.app)
+Live Demo: (https://mydishfinder.netlify.app)
 
 ---
 
