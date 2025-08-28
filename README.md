@@ -4,20 +4,6 @@ A modern, responsive web application to search and discover recipes. Built with 
 
 ---
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Demo
 
 Live Demo: [Recipe Finder](mydishfinder.netlify.app)
@@ -32,16 +18,6 @@ Live Demo: [Recipe Finder](mydishfinder.netlify.app)
 - Responsive and mobile-friendly layout.  
 - Modern and clean design using TailwindCSS.  
 - Smooth animations with Framer Motion (optional).
-
----
-
-## Screenshots
-
-![Home Page](screenshots/home.png)  
-![Search Results](screenshots/search.png)  
-![Recipe Details Modal](screenshots/modal.png)
-
-> Replace the screenshots folder with your project images.
 
 ---
 
